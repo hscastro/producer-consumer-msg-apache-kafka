@@ -26,6 +26,7 @@ public class MessageEnvioKafka {
 	}
 
 	public static void main(String[] args) {
+		//Chama o método de envio da mensagem
 		envioDaMensagem();
 	}
 
